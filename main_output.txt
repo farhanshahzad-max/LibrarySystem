@@ -1,0 +1,8 @@
+
+Enter ISBN to borrow a book (or 0 to exit): 
+1
+No book found with ISBN 1.
+
+Enter ISBN to borrow a book (or 0 to exit): 
+
+Session Killed due to Timeout.
